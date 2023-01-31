@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+body{
+    overflow: hidden;
+    font-family: 'Lato', sans-serif;
+    color: #505962;
+}
+.carousel-item{
+    height: 100vh;
+}
+.carousel-caption h1{
+    font-size: 3vw;
+    text-transform: uppercase;
+  }
+.bgbloqueio{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.288);
+    width: 35%;
+    height: 23%;
+  }
